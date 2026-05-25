@@ -1,0 +1,18 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Transparent background - no rect -->
+
+  <!-- Dot -->
+  <circle cx="203" cy="177" r="38" fill="white"/>
+
+  <!-- Vertical Bar -->
+  <path d="M170 242H235V386H170V242Z" fill="white"/>
+
+  <!-- Main K Shape -->
+  <path d="M250 242L352 344L250 446V242Z" fill="white"/>
+
+  <!-- Upper Arm -->
+  <path d="M306 310L420 196H352L272 276L306 310Z" fill="white"/>
+
+  <!-- Lower Arm -->
+  <path d="M308 368L392 452H332L274 394L308 368Z" fill="white"/>
+</svg>
